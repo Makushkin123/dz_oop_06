@@ -1,6 +1,11 @@
-# dz_oop_06
-# install lib 
-poetry shell
-poetry install
-# run app
-python3 
+### Установка
+
+1. Клонируйте репозиторий.
+2. Создайте виртуальное окружение с помощью Poetry: poetry shell
+3. Установите зависимости: poetry install
+
+### Запуск
+
+1. Перейдите в директорию проекта.
+2. Запустите скрипт python main.py
+3. Запуск тестов pytest -v

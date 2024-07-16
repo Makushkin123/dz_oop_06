@@ -1,7 +1,7 @@
 import pytest
 from contextlib import nullcontext as does_not_raise
 
-from shemas.score import MethodRequest
+from app.shemas.score import MethodRequest
 from pydantic import ValidationError
 
 
